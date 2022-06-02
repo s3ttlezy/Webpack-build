@@ -1,0 +1,11 @@
+.card {
+  padding: 1rem;
+  border-radius: 15px;
+  margin-top: 1rem;
+  border: 1px solid #ccc;
+}
+
+.card h2 {
+  text-align: center;
+  color: #FE489A;
+}
